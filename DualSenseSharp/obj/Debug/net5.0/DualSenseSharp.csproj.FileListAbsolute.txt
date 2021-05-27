@@ -1,0 +1,12 @@
+C:\Users\crazy\Documents\IVAM_LAB\Csharp\DualSenseSharp\DualSenseSharp\bin\Debug\net5.0\DualSenseSharp.deps.json
+C:\Users\crazy\Documents\IVAM_LAB\Csharp\DualSenseSharp\DualSenseSharp\bin\Debug\net5.0\DualSenseSharp.dll
+C:\Users\crazy\Documents\IVAM_LAB\Csharp\DualSenseSharp\DualSenseSharp\bin\Debug\net5.0\ref\DualSenseSharp.dll
+C:\Users\crazy\Documents\IVAM_LAB\Csharp\DualSenseSharp\DualSenseSharp\bin\Debug\net5.0\DualSenseSharp.pdb
+C:\Users\crazy\Documents\IVAM_LAB\Csharp\DualSenseSharp\DualSenseSharp\obj\Debug\net5.0\DualSenseSharp.csprojAssemblyReference.cache
+C:\Users\crazy\Documents\IVAM_LAB\Csharp\DualSenseSharp\DualSenseSharp\obj\Debug\net5.0\DualSenseSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crazy\Documents\IVAM_LAB\Csharp\DualSenseSharp\DualSenseSharp\obj\Debug\net5.0\DualSenseSharp.AssemblyInfoInputs.cache
+C:\Users\crazy\Documents\IVAM_LAB\Csharp\DualSenseSharp\DualSenseSharp\obj\Debug\net5.0\DualSenseSharp.AssemblyInfo.cs
+C:\Users\crazy\Documents\IVAM_LAB\Csharp\DualSenseSharp\DualSenseSharp\obj\Debug\net5.0\DualSenseSharp.csproj.CoreCompileInputs.cache
+C:\Users\crazy\Documents\IVAM_LAB\Csharp\DualSenseSharp\DualSenseSharp\obj\Debug\net5.0\DualSenseSharp.dll
+C:\Users\crazy\Documents\IVAM_LAB\Csharp\DualSenseSharp\DualSenseSharp\obj\Debug\net5.0\ref\DualSenseSharp.dll
+C:\Users\crazy\Documents\IVAM_LAB\Csharp\DualSenseSharp\DualSenseSharp\obj\Debug\net5.0\DualSenseSharp.pdb
